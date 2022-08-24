@@ -28,7 +28,6 @@ int[] CreateArrayRndInt(int size, int min, int max)
         {
             count++;
         }
-
     }
     return array;
 }
@@ -48,3 +47,4 @@ void PrintArray(int[] array)
 
 int[] arr2 = CreateArrayRndInt(usersize, 100, 1000);
 PrintArray(arr2);
+

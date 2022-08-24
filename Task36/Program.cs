@@ -47,3 +47,4 @@ void PrintArray(int[] array)
 
 int[] arr2 = CreateArrayRndInt(usersize, -20, 21);
 PrintArray(arr2);
+

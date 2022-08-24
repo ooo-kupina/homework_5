@@ -54,3 +54,4 @@ void PrintArray(double[] array)
 
 double[] arr2 = CreateArrayRndInt(usersize, 0, 100);
 PrintArray(arr2);
+
